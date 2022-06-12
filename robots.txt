@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://patriciaclarke.github.io/portfolio/sitemap.xml
+Disallow: /
