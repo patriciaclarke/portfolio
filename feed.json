@@ -1,0 +1,54 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Patrica Clarke Portfolio",
+    "description": "",
+    "home_page_url": "https://patriciaclarke.github.io/portfolio",
+    "feed_url": "https://patriciaclarke.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Patricia Clarke"
+    },
+    "items": [
+        {
+            "id": "https://patriciaclarke.github.io/portfolio/highlights.html",
+            "url": "https://patriciaclarke.github.io/portfolio/highlights.html",
+            "title": "Highlights ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://patriciaclarke.github.io/portfolio/media/posts/3/gradient-collage-metaverse-concept-1.jpg",
+            "author": {
+                "name": "Patricia Clarke"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-21T10:22:46-05:00",
+            "date_modified": "2022-06-12T08:42:44-05:00"
+        },
+        {
+            "id": "https://patriciaclarke.github.io/portfolio/about-me.html",
+            "url": "https://patriciaclarke.github.io/portfolio/about-me.html",
+            "title": "About Me ",
+            "content_html": "<hr class=\"separator separator--dots\" />\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Patricia Clarke"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-21T09:53:18-05:00",
+            "date_modified": "2022-05-21T10:18:51-05:00"
+        },
+        {
+            "id": "https://patriciaclarke.github.io/portfolio/lesson-plans.html",
+            "url": "https://patriciaclarke.github.io/portfolio/lesson-plans.html",
+            "title": "Lesson Plans",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://patriciaclarke.github.io/portfolio/media/posts/1/2204_w026_n002_1716b_p1_1716.jpg",
+            "author": {
+                "name": "Patricia Clarke"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-21T09:23:54-05:00",
+            "date_modified": "2022-05-21T10:28:23-05:00"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Patrica Clarke Portfolio</title>
+    <link href="https://patriciaclarke.github.io/portfolio/feed.xml" rel="self" />
+    <link href="https://patriciaclarke.github.io/portfolio" />
+    <updated>2022-06-12T08:42:44-05:00</updated>
+    <author>
+        <name>Patricia Clarke</name>
+    </author>
+    <id>https://patriciaclarke.github.io/portfolio</id>
+
+    <entry>
+        <title>Highlights </title>
+        <author>
+            <name>Patricia Clarke</name>
+        </author>
+        <link href="https://patriciaclarke.github.io/portfolio/highlights.html"/>
+        <id>https://patriciaclarke.github.io/portfolio/highlights.html</id>
+
+        <updated>2022-06-12T08:42:44-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://patriciaclarke.github.io/portfolio/media/posts/3/gradient-collage-metaverse-concept-1.jpg" alt="" />
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me </title>
+        <author>
+            <name>Patricia Clarke</name>
+        </author>
+        <link href="https://patriciaclarke.github.io/portfolio/about-me.html"/>
+        <id>https://patriciaclarke.github.io/portfolio/about-me.html</id>
+
+        <updated>2022-05-21T10:18:51-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <hr class="separator separator--dots" />
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lesson Plans</title>
+        <author>
+            <name>Patricia Clarke</name>
+        </author>
+        <link href="https://patriciaclarke.github.io/portfolio/lesson-plans.html"/>
+        <id>https://patriciaclarke.github.io/portfolio/lesson-plans.html</id>
+
+        <updated>2022-05-21T10:28:23-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://patriciaclarke.github.io/portfolio/media/posts/1/2204_w026_n002_1716b_p1_1716.jpg" alt="" />
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
