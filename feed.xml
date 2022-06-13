@@ -3,12 +3,34 @@
     <title>Patrica Clarke Portfolio</title>
     <link href="https://patriciaclarke.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://patriciaclarke.github.io/portfolio" />
-    <updated>2022-06-12T08:42:44-05:00</updated>
+    <updated>2022-06-12T21:59:38-05:00</updated>
     <author>
         <name>Patricia Clarke</name>
     </author>
     <id>https://patriciaclarke.github.io/portfolio</id>
 
+    <entry>
+        <title>Files To Be Apraised </title>
+        <author>
+            <name>Patricia Clarke</name>
+        </author>
+        <link href="https://patriciaclarke.github.io/portfolio/files-to-be-apraised-2.html"/>
+        <id>https://patriciaclarke.github.io/portfolio/files-to-be-apraised-2.html</id>
+
+        <updated>2022-06-12T21:52:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Class Hey
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p><a href="https://patriciaclarke.github.io/portfolio/CLASS EXPECTATIONS 2021-2022.docx">Class</a></p>
+<p><a href="https://patriciaclarke.github.io/portfolio/CITY&amp;GUILDS English Skills (3850) Handbook-1 (1) (2).pdf">Hey</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Highlights </title>
         <author>
@@ -37,14 +59,23 @@
         <link href="https://patriciaclarke.github.io/portfolio/about-me.html"/>
         <id>https://patriciaclarke.github.io/portfolio/about-me.html</id>
 
-        <updated>2022-05-21T10:18:51-05:00</updated>
-            <summary></summary>
+        <updated>2022-06-12T21:59:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Patrica Clarke Patricia Clarke lives by the philosophy, "It doesn’t matter when one blooms, the important thing is to bloom.” Her life embodies&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 <hr class="separator separator--dots" />
 
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://patriciaclarke.github.io/portfolio/media/posts/2/Screenshot-from-2022-06-12-21-56-20.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://patriciaclarke.github.io/portfolio/media/posts/2/responsive/Screenshot-from-2022-06-12-21-56-20-xs.png 300w ,https://patriciaclarke.github.io/portfolio/media/posts/2/responsive/Screenshot-from-2022-06-12-21-56-20-sm.png 480w ,https://patriciaclarke.github.io/portfolio/media/posts/2/responsive/Screenshot-from-2022-06-12-21-56-20-md.png 768w ,https://patriciaclarke.github.io/portfolio/media/posts/2/responsive/Screenshot-from-2022-06-12-21-56-20-lg.png 1024w ,https://patriciaclarke.github.io/portfolio/media/posts/2/responsive/Screenshot-from-2022-06-12-21-56-20-xl.png 1360w ,https://patriciaclarke.github.io/portfolio/media/posts/2/responsive/Screenshot-from-2022-06-12-21-56-20-2xl.png 1600w"  height="107" width="133" alt="" />
+      <figcaption>Patrica Clarke</figcaption>
+    </figure>
+
   <p>
-    
+    Patricia Clarke lives by the philosophy, <b>"It doesn’t matter when one blooms, the important thing is to bloom.”</b> Her life embodies this principle perfectly as after becoming a mother, she became an educator with a mission to empower every child entrusted to her care to be the best he/she can be. <br>She is a devoted Christian who endeavours to include GOD in all decisions recognising that she can only succeed if He is at the realm. Additionally, she is a hands-on mother as she understands that she has a responsibility to ensure her children become valuable members of society. Hence, her reason for embracing education; ensuring she becomes a vivid example for them to follow. <br>Patricia is a Ferncourt High School Alumnus (Class of 2002). She is also a member of the Northern Caribbean University (NCU) Class of 2017 where she gained a Bachelor of Arts in English (Magna Cum Laude). During her tenure, she was consistently a member of the President’s Dean List, and a three time Byron Robinson Scholarship Awardee. She also entered many creative writing competitions enjoying much success including publication in an international anthology. She was also given the opportunity to write poems and drama pieces for many on campus events. <br>After graduation, she joined the Ferncourt High School Academic Staff as a Teacher of English (Upper School) where she remains to date.<br>Her ambition and hunger for knowledge led her back to Northern Caribbean University in 2020 where she successfully read for the Post Graduate Diploma in Education (Class of 2021- GPA 3.75). <br>She is currently reading for a Master of Arts in Education (University of South Wales –UK), which she hopes to complete by August 2022. <br>She is an active member of the Ferncourt High School Alumni Association serving as Second Vice President and Prospective member of the Kiwanis Club of Moneague.<br>Patricia loves writing, and hones her skill through countless competition over the years to include; JCDC Speech and Creative Writing Competition both as a competitor and as a guide to her students. She also has countless articles published in the Jamaica Observer, Jamaica Gleaner and the North Coast Times. <br>She is known for her obsession with perfection and her drive to succeed in everything she does.&nbsp;
   </p>
             ]]>
         </content>
