@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://patriciaclarke.github.io/portfolio/lesson-plans-2.html",
+            "url": "https://patriciaclarke.github.io/portfolio/lesson-plans-2.html",
+            "title": "Lesson Plans ",
+            "summary": "Class Expectations 2021-2022 PDf Test City And Guilds Handout Test",
+            "content_html": "<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://patriciaclarke.github.io/portfolio/media/posts/6/bureau_04-2.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://patriciaclarke.github.io/portfolio/media/posts/6/responsive/bureau_04-2-xs.jpg 300w ,https://patriciaclarke.github.io/portfolio/media/posts/6/responsive/bureau_04-2-sm.jpg 480w ,https://patriciaclarke.github.io/portfolio/media/posts/6/responsive/bureau_04-2-md.jpg 768w ,https://patriciaclarke.github.io/portfolio/media/posts/6/responsive/bureau_04-2-lg.jpg 1024w ,https://patriciaclarke.github.io/portfolio/media/posts/6/responsive/bureau_04-2-xl.jpg 1360w ,https://patriciaclarke.github.io/portfolio/media/posts/6/responsive/bureau_04-2-2xl.jpg 1600w\"  alt=\"\" width=\"5001\" height=\"5001\"></figure>\n<p> </p>\n<p class=\"align-center\"><a href=\"https://patriciaclarke.github.io/portfolio/CLASS EXPECTATIONS 2021-2022.docx\" download>Class Expectations 2021-2022</a></p>\n<p class=\"align-center\"><a href=\"https://docs.google.com/document/d/12G_jpTPjzQ42yn5uZdOuI5q_KiDKoYUSSRDd-S5QJkY/edit?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">PDf Test</a></p>\n<p> </p>\n<p class=\"align-center\"><a href=\"https://patriciaclarke.github.io/portfolio/CITY&amp;GUILDS English Skills (3850) Handbook-1 (1) (2).pdf\">City And Guilds Handout</a></p>\n<p class=\"align-center\"><a href=\"https://patriciaclarke.github.io/portfolio/BECOMING A LADY OF WORTH - PRESENTATION (13.5.22).pptm\">Test</a></p>\n<p class=\"align-center\"> </p>\n<p> </p>",
+            "author": {
+                "name": "Patricia Clarke"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-12T22:09:33-05:00",
+            "date_modified": "2022-06-13T20:01:41-05:00"
+        },
+        {
             "id": "https://patriciaclarke.github.io/portfolio/files-to-be-apraised-2.html",
             "url": "https://patriciaclarke.github.io/portfolio/files-to-be-apraised-2.html",
             "title": "Files To Be Apraised ",
@@ -50,20 +64,6 @@
             ],
             "date_published": "2022-05-21T09:53:18-05:00",
             "date_modified": "2022-06-12T21:59:38-05:00"
-        },
-        {
-            "id": "https://patriciaclarke.github.io/portfolio/lesson-plans.html",
-            "url": "https://patriciaclarke.github.io/portfolio/lesson-plans.html",
-            "title": "Lesson Plans",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://patriciaclarke.github.io/portfolio/media/posts/1/2204_w026_n002_1716b_p1_1716.jpg",
-            "author": {
-                "name": "Patricia Clarke"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-21T09:23:54-05:00",
-            "date_modified": "2022-05-21T10:28:23-05:00"
         }
     ]
 }
