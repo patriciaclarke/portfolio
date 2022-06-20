@@ -3,19 +3,43 @@
     <title>Patrica Clarke Portfolio 2022</title>
     <link href="https://patriciaclarke.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://patriciaclarke.github.io/portfolio" />
-    <updated>2022-06-19T21:00:46-05:00</updated>
+    <updated>2022-06-19T21:51:16-05:00</updated>
     <author>
         <name>Patricia Clarke</name>
     </author>
     <id>https://patriciaclarke.github.io/portfolio</id>
 
     <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Patricia Clarke</name>
+        </author>
+        <link href="https://patriciaclarke.github.io/portfolio/welcome-and-introduction/"/>
+        <id>https://patriciaclarke.github.io/portfolio/welcome-and-introduction/</id>
+
+        <updated>2022-06-19T21:51:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://patriciaclarke.github.io/portfolio/media/posts/19/welcome-sign-724689.jpg" alt="" />
+                    This portfolio is an attempt at documenting the application of all that I learnt during the tumultuous time faced under the pandemic and life&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://patriciaclarke.github.io/portfolio/media/posts/19/welcome-sign-724689.jpg" alt="" />
+                <p>This portfolio is an attempt at documenting the application of all that I learnt during the tumultuous time faced under the pandemic and life thereafter. It shows my involvement in school life as I made myself available to help students to move forward. It is also a look at my growth in the field as I become a more grounded teacher. <br>I am humbled by the acknowledgement that as challenges are supposed to, I was able to successfully navigate. I must admit to being extremely grateful and appreciative of all that I have learnt during this time. I was forced to really endorse cooperative learning and to find novel ways to teach my students. Subsequently, I feel ready and equipped to move forward as a 21st century educator. </p>
+<p>Conclusively, it is my desire that as you journey with me through the pages of this portfolio, you will be able to be as inspired as I was and transfixed by the imagery I aim to depict.</p>
+<p>A God-inspired journey to all those who scroll through this portfolio.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Presentations</title>
         <author>
             <name>Patricia Clarke</name>
         </author>
-        <link href="https://patriciaclarke.github.io/portfolio/presentations.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/presentations.html</id>
+        <link href="https://patriciaclarke.github.io/portfolio/presentations/"/>
+        <id>https://patriciaclarke.github.io/portfolio/presentations/</id>
 
         <updated>2022-06-19T19:54:24-05:00</updated>
             <summary>
@@ -35,8 +59,8 @@
         <author>
             <name>Patricia Clarke</name>
         </author>
-        <link href="https://patriciaclarke.github.io/portfolio/teaching-reourcespresentations.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/teaching-reourcespresentations.html</id>
+        <link href="https://patriciaclarke.github.io/portfolio/teaching-reourcespresentations/"/>
+        <id>https://patriciaclarke.github.io/portfolio/teaching-reourcespresentations/</id>
 
         <updated>2022-06-19T19:48:48-05:00</updated>
             <summary>
@@ -55,8 +79,8 @@
         <author>
             <name>Patricia Clarke</name>
         </author>
-        <link href="https://patriciaclarke.github.io/portfolio/sample-of-students-work.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/sample-of-students-work.html</id>
+        <link href="https://patriciaclarke.github.io/portfolio/sample-of-students-work/"/>
+        <id>https://patriciaclarke.github.io/portfolio/sample-of-students-work/</id>
 
         <updated>2022-06-19T20:58:18-05:00</updated>
             <summary>
@@ -78,8 +102,8 @@
         <author>
             <name>Patricia Clarke</name>
         </author>
-        <link href="https://patriciaclarke.github.io/portfolio/about-me-2.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/about-me-2.html</id>
+        <link href="https://patriciaclarke.github.io/portfolio/about-me-2/"/>
+        <id>https://patriciaclarke.github.io/portfolio/about-me-2/</id>
 
         <updated>2022-06-19T18:03:00-05:00</updated>
             <summary>
@@ -102,8 +126,8 @@
         <author>
             <name>Patricia Clarke</name>
         </author>
-        <link href="https://patriciaclarke.github.io/portfolio/philosophy-of-education.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/philosophy-of-education.html</id>
+        <link href="https://patriciaclarke.github.io/portfolio/philosophy-of-education/"/>
+        <id>https://patriciaclarke.github.io/portfolio/philosophy-of-education/</id>
 
         <updated>2022-06-19T18:04:19-05:00</updated>
             <summary>
@@ -127,8 +151,8 @@
         <author>
             <name>Patricia Clarke</name>
         </author>
-        <link href="https://patriciaclarke.github.io/portfolio/certificates.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/certificates.html</id>
+        <link href="https://patriciaclarke.github.io/portfolio/certificates/"/>
+        <id>https://patriciaclarke.github.io/portfolio/certificates/</id>
 
         <updated>2022-06-19T20:03:00-05:00</updated>
             <summary>
@@ -160,8 +184,8 @@
         <author>
             <name>Patricia Clarke</name>
         </author>
-        <link href="https://patriciaclarke.github.io/portfolio/student-resources.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/student-resources.html</id>
+        <link href="https://patriciaclarke.github.io/portfolio/student-resources/"/>
+        <id>https://patriciaclarke.github.io/portfolio/student-resources/</id>
 
         <updated>2022-06-19T20:59:36-05:00</updated>
             <summary>
@@ -188,8 +212,8 @@
         <author>
             <name>Patricia Clarke</name>
         </author>
-        <link href="https://patriciaclarke.github.io/portfolio/reports.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/reports.html</id>
+        <link href="https://patriciaclarke.github.io/portfolio/reports/"/>
+        <id>https://patriciaclarke.github.io/portfolio/reports/</id>
 
         <updated>2022-06-19T17:32:29-05:00</updated>
             <summary>
@@ -221,8 +245,8 @@
         <author>
             <name>Patricia Clarke</name>
         </author>
-        <link href="https://patriciaclarke.github.io/portfolio/scopes-and-sequences.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/scopes-and-sequences.html</id>
+        <link href="https://patriciaclarke.github.io/portfolio/scopes-and-sequences/"/>
+        <id>https://patriciaclarke.github.io/portfolio/scopes-and-sequences/</id>
 
         <updated>2022-06-19T21:00:46-05:00</updated>
             <summary>
@@ -244,33 +268,6 @@
 <p> </p>
 <p class="align-center"> </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Lesson Plans </title>
-        <author>
-            <name>Patricia Clarke</name>
-        </author>
-        <link href="https://patriciaclarke.github.io/portfolio/lesson-plans-2.html"/>
-        <id>https://patriciaclarke.github.io/portfolio/lesson-plans-2.html</id>
-
-        <updated>2022-06-19T17:33:24-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://patriciaclarke.github.io/portfolio/media/posts/6/lessons-gef81a71be_1920.jpg" alt="" />
-                    Ms Clarke Notes of Lesson - (May 16-20, 2022) Summer Term Notes of Lesson - (May 16-20, 2022) Summer Term Notes of Lesson -&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://patriciaclarke.github.io/portfolio/media/posts/6/lessons-gef81a71be_1920.jpg" alt="" />
-                <p class="align-left"> </p>
-<p class="align-left"><a href="https://patriciaclarke.github.io/portfolio/Ms Clarke Notes of Lesson - (May 16-20, 2022) (1).pdf" target="_blank" rel="noopener noreferrer">Ms Clarke Notes of Lesson - (May 16-20, 2022)</a></p>
-<p class="align-left"><a href="https://patriciaclarke.github.io/portfolio/Summer Term Notes of Lesson - (May 16-20, 2022).pdf">Summer Term Notes of Lesson - (May 16-20, 2022)</a></p>
-<p class="align-left"><a href="https://patriciaclarke.github.io/portfolio/Summer Term Notes of Lesson - (May 30 - June 1, 2022).pdf">Summer Term Notes of Lesson - (May 30 - June 1, 2022)</a></p>
-<p><a href="https://patriciaclarke.github.io/portfolio/Summer Term Notes of Lesson - (June 13-17, 2022).pdf">Summer Term Notes of Lesson - (June 13-17, 2022)</a></p>
-<p class="align-left"> </p>
             ]]>
         </content>
     </entry>
